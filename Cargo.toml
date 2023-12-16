@@ -10,4 +10,4 @@ edition = "2018"
 repository = "https://github.com/redpfire/usbd-webusb"
 
 [dependencies]
-usb-device = "^0.2.7"
+usb-device = "^0.3.0"
